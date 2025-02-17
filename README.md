@@ -4,7 +4,7 @@ This repository contains lectures for Iowa State University's course ME 5920 Spr
 
 ## Lectures
 
-The hands-on portion of the lectures for this course can be found in the `@lectures` directory. Topics range from basic data analysis to deep learning.
+The hands-on portion of the lectures for this course can be found in the `/lectures` directory. Topics range from basic data analysis to deep learning.
 
 ## Attribution
 
